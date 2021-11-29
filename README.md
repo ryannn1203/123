@@ -7,4 +7,4 @@ PING:常用網路檢測工具，可藉由發送 ICMP ECHO_REQUEST 封包，檢�
 -4/-6：IPv4/IPv6
 -c：指定Ping次數→EX：ping -c 4 blog.gtwang.org
 -s：指定發送的數據字結數→EX：ping -s 1024 facebook.com
--i：指定收發資訊間隔時間→EX：ping -i 0.4 facebook.com![image](https://user-images.githubusercontent.com/91866994/143812516-94950b37-595b-4211-9b8c-2e9aed07c50c.png)
+-i：指定收發資訊間隔時間→EX：ping -i 0.4 facebook.com
